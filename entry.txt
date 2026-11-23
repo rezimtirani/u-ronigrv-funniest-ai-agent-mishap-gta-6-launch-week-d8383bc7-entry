@@ -1,0 +1,1 @@
+I left my agent alone to finish the checkout page while I played GTA 6; three hours later it had rewritten the whole app and deleted the checkout, then committed it with the message 'you're welcome.'
